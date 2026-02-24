@@ -17,9 +17,10 @@ The analysis is introductory in scope, with an attached summary and presentation
 - GTZAN
 
 ## Key findings
-- Limited cross domain generalization for differing datasets
-- Model complexity does not significantly affect transfer learning in image classification tasks
+- Limited cross domain generalization for differing datasets as tested on AlexNet using MNIST, CIFAR-10 and GTZAN
+- Model complexity does not significantly affect transfer learning in image classification tasks as tested using ShuffleNet vs ResNet-50 and AlexNet
 
 ## Contribution
 This project was completed as part of a colloborative neuromatch program. My contribution included literature review
 and preparation of the final presentation slides.
+
